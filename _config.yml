@@ -3,4 +3,5 @@ description: "홍진웅의 개인 개발 블로그 — 알고리즘·CS 개념 �
 theme: minima
 collections:
   algorithms:
-    output: true
+    output: true      # _site/algorithms/ 에 HTML로 생성
+    permalink: /algorithms/:name/
