@@ -1,0 +1,7 @@
+main:
+  - title: "Algorithms"
+    url: /algorithms/
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
