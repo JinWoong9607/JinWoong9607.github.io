@@ -1,6 +1,7 @@
 ---
 title: "검색 트리 (Search Tree) 완벽 가이드"
 date: 2025-05-06 04:39:53 +0900
+layout: Algorithms
 ---
 
 ## Ⅰ. 서문  
