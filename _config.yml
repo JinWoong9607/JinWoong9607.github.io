@@ -1,3 +1,6 @@
 title: "Jin Woong의 개발 블로그"
 description: "홍진웅의 개인 개발 블로그 — 알고리즘·CS 개념 정리 및 Java 예제"
 theme: minima
+collections:
+  algorithms:
+    output: true
